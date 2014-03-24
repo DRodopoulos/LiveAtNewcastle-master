@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Live at Newcastle</string>
+    <string name="action_settings">Settings</string>
+    <string name="hobbies_and_societies">Hobbies/Societies</string>
+    <string name="social_life">Social life</string>
+    <string name="accommodation">Accommodation</string>
+    <string name="settings">Settings</string>
+    <string name="exit">Exit</string>
+    <string name="list_of_societies">List of Societies</string>
+    <string name="upcoming_activities">Upcoming Activities</string>
+    <string name="find_center">Find a Centre</string>
+    <string name="clubs_bars">Clubs and Bars</string>
+    <string name="events">Events</string>
+    <string name="movies">Cinema and Movies</string>
+    <string name="nu_homes">NU Student Homes</string>
+    <string name="search_accom">Accommodation Search</string>
+    <string name="about">About</string>
+    <string name="feedback">Give Feedback</string>
+    <string name="sm_settings">Social Media Settings</string>
+    <string name="customize">Customise</string>
+    <string name="infoAbout">Designed by Team 12 \n Adam Cattermoele \n Michael Djingga \n Pedram Ojani \n
+        Sam Price \n Dimitrios Rodopoulos \n Jack Staples \n Ross Williams \n The purposes of the app is to make \n 
+        it easier for new students to adjust and learn Newcastle or even find an accommodation</string>
+    
+    <string name="facebook">NUSU Facebook</string>
+    <string name="twitter">NUSU Twitter</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="drawer_elements">
+        <item>Home</item>
+        <item>Hobbies/Societies</item>
+        <item>Social Life</item>
+        <item>Accommodation</item>
+        <item>Settings</item>
+    </string-array>
+    
+     <!-- Nav Drawer List Item Icons -->
+    <array name="drawer_icons">
+        <item>@drawable/ic_nav_home</item>
+        <item>@drawable/ic_nav_hobsoc</item>
+        <item>@drawable/ic_nav_soclife</item>
+        <item>@drawable/ic_nav_accom</item>
+        <item>@drawable/ic_nav_settings</item>
+    </array>
+    
+    <!-- socMap Spinner Items -->
+    <string-array name="socMap_elements">
+        <item>NU Students\' Union</item>
+        <item>NU Sports Centre</item>
+        <item>Normal View</item>
+        <item>Satellite View</item>
+        <item>Hybrid View</item>
+    </string-array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="app_not_available">app not available</string>
+    <color name="drawer_background">#3EB0DD</color>
+    <color name="drawer_background_pressed">#3392B6</color>
+    <color name="drawer_background_selected">#164050</color>
+
+</resources>
